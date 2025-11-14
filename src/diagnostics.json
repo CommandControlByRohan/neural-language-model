@@ -1,0 +1,9 @@
+{
+  "total_tokens": 151689,
+  "vocab_size": 6801,
+  "train_sequences": 121321,
+  "val_sequences": 15138,
+  "test_sequences": 15140,
+  "seq_len": 30,
+  "top_k": 10000
+}
